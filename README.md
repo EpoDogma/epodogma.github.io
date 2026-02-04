@@ -15,9 +15,8 @@
   <div class="row justify-content-center">
     <div class="col-md-10 col-lg-8">
       <div class="card">
-        <div class="card-body text-center">
+        <div class="card-body">
           <h1 class="card-title">Welcome to my blog</h1>
-
           <div class="mt-3">
             <a href="/a" class="btn btn-primary btn-lg me-3">Button A</a>
             <a href="/b" class="btn btn-primary btn-lg">Button B</a>
@@ -27,24 +26,4 @@
     </div>
   </div>
 </div>
-  
-  <div class="container">
-    <div class="mt-5 row">
-      <div class="col-md-12">
-        <div class="row d-flex justify-content-center mt-5">
-          <div class="col-md-12">
-            <div class="card">
-              <div class="card-body">
-                <h1 class="card-title">Welcome to my blog</h1>
-                <div class="d-flex justify-content-center">
-                  <a href="/a" class="btn btn-primary btn-lg my-3 me-3">Button A</a>
-                  <a href="/b" class="btn btn-primary btn-lg my-3 me-3">Button B</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </body>
