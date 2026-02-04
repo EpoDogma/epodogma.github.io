@@ -15,7 +15,7 @@
   <div class="row justify-content-center">
     <div class="col-md-10 col-lg-8">
       <div class="card">
-        <div class="card-body">
+        <div class="card-body text-center">
           <h1 class="card-title">Welcome to my blog</h1>
           <div class="mt-3">
             <a href="/a" class="btn btn-primary btn-lg me-3">Button A</a>
@@ -25,5 +25,8 @@
       </div>
     </div>
   </div>
+
+  <p>This is my paragraph</p>
+  
 </div>
 </body>
