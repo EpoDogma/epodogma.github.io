@@ -17,10 +17,10 @@
         <div class="col-md-12">
           <div class="card">
             <div class="card-body">
-              <h1 class="card-title">Welcome to the safe and well app</h1>
+              <h1 class="card-title">Welcome to my blog</h1>
               <div class="d-flex justify-content-center">
-                <a href="/search" class="btn btn-primary btn-lg my-3 me-3">Search for a loved one</a>
-                <a href="/report" class="btn btn-primary btn-lg my-3 me-3">Report your status</a>
+                <a href="/a" class="btn btn-primary btn-lg my-3 me-3">Button A</a>
+                <a href="/b" class="btn btn-primary btn-lg my-3 me-3">Button B</a>
               </div>
             </div>
           </div>
@@ -28,9 +28,3 @@
       </div>
     </div>
   </div>
-
-  <div class="row d-flex justify-content-center mt-5">
-    <div class="col-md-12">
-    </div>
-  </div>
-</div>
