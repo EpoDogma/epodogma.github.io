@@ -1,6 +1,3 @@
-<!doctype html>
-<html>
-
 <head>
   <title>Safe and Well</title>
 
@@ -14,8 +11,6 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/app.css">
 </head>
-
-<body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <a class="navbar-brand" href="/">Safe and Well</a>
@@ -24,9 +19,6 @@
       </button>
   <!-- Latest compiled and minified JavaScript -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-</body>
-
-</html>
 
 <div class="container">
   <div class="mt-6 row">
